@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\dotnet\Cars\Cars\bin\Debug\net8.0\Cars.exe
+\\Mac\Home\Desktop\dotnet\Cars\Cars\bin\Debug\net8.0\Cars.deps.json
+\\Mac\Home\Desktop\dotnet\Cars\Cars\bin\Debug\net8.0\Cars.runtimeconfig.json
+\\Mac\Home\Desktop\dotnet\Cars\Cars\bin\Debug\net8.0\Cars.dll
+\\Mac\Home\Desktop\dotnet\Cars\Cars\bin\Debug\net8.0\Cars.pdb
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\Cars.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\Cars.AssemblyInfo.cs
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\Cars.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\Cars.dll
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\refint\Cars.dll
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\Cars.pdb
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\Cars.genruntimeconfig.cache
+\\Mac\Home\Desktop\dotnet\Cars\Cars\obj\Debug\net8.0\ref\Cars.dll
